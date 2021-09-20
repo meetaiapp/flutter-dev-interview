@@ -7,7 +7,7 @@ You are the newest member of a startup that makes a camera app. You have been re
 The photo editor should have these features:
 * **Allow user to upload a photo from the photo album**
 * **Allow user to put regular stickers on their photo (example: Instagram Story)**
-* **Allow user to add photo filter overlays like (example: Instagram filters)**
+* Allow user to add photo filter overlays like (example: Instagram filters)
 * Allow user to upload multiple photos and put them together (example: Instagram collage)
 * Allow user to add description tags for objects and people in the photo
 
