@@ -27,7 +27,6 @@ The resources below are great recommendations for helping to start and build out
 We will evaluate your project depending on these factors:
 * The code quality
 * The implementation of the requirements
-* How well you followed the feature requirements
 * Documentation
 
 Please submit your test to oscar@keepfika.com **latest 48 hours** after you've gained access to this repository. Feel free to use any resources online, just make sure to document it clearly in your code or supporting documents. 
