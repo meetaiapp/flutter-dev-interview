@@ -7,8 +7,8 @@ You are the newest member of a startup that makes a camera app. You have been re
 The photo editor should have these features:
 * **Allow user to upload a photo from the photo album**
 * **Allow user to put regular stickers on their photo and move them around (example: Instagram Story)**
-    * 1) It is recommended that you have some type of way to allow the users to move their stickers on the picture and place them where they want (similar to IG).
-* Allow user to add photo filter overlays like (example: Instagram filters)
+    1) It is recommended that you have some type of way to allow the users to move their stickers on the picture and place them where they want (similar to IG).
+* Allow user to add photo filter overlays (example: Instagram filters)
 * Add Local State - User can continue to edit a photo and keep a draft version
 * Allow user to upload multiple photos and put them together (example: Instagram collage)
 * Allow user to add description tags for objects and people in the photo
