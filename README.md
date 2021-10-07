@@ -29,7 +29,7 @@ We will evaluate your project depending on these factors:
 * The implementation of the requirements
 * Documentation
 
-Please submit your test to oscar@keepfika.com **latest 48 hours** after you've gained access to this repository. Feel free to use any resources online, just make sure to document it clearly in your code or supporting documents. 
+Please submit your test to oscar@keepfika.com **latest 48 hours** after you've gained access to this repository. The submission can be a GitHub repository or a zip-file. Feel free to use any resources online, just make sure to document it clearly in your code or supporting documents. 
 
 Good luck and have fun!
 
